@@ -1,5 +1,5 @@
 ### Hello!
-### My name is Elena and I'm a junior frontend developer with marketing experience 
+### My name is Elena and I'm a junior frontend developer with marketing background 
 
 .
 - 🐱‍💻 I’ve recently finished the course on Web-development and have little coding experience so far. But i want to practice it.
